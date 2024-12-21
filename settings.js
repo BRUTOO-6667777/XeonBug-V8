@@ -1,9 +1,9 @@
-//base by DGXeon
+//base by brutozz
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @GlobalTechInfo
 //Telegram: https://t.me/GlobalTechInc
 //GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+//WhatsApp: https://chat.whatsapp.com/LPWeI86eUd0BHxkRIwbkiR
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
 
 const fs = require('fs')
@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "Global Bot"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.link = 'https://chat.whatsapp.com/LPWeI86eUd0BHxkRIwbkiR'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
